@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  font-family: digikala;
+ 
+}
+@font-face{
+    font-family: digikala;
+    src: url(../fonts/IRANYekanWeb-Bold.eot);
+    src: url(../fonts/IRANYekanWeb-Bold.ttf);
+    src: url(../fonts/IRANYekanWeb-Bold.woff);
+    src: url(../fonts/IRANYekanWeb-Bold.woff2);
+
+}
+html,
+body {
+position: relative;
+height: 100%;
+}
+
+body {
+
+
+font-size: 14px;
+color: #000;
+margin: 0;
+padding: 0;
+overflow-x: hidden;
+}
+
+
+html,body{
+  scroll-behavior: smooth;
+}

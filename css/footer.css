@@ -1,0 +1,237 @@
+footer .right{
+    width: 100%;
+    height: 100%;
+    margin-top: 45px;
+    margin-right: 20px;
+}
+footer .left {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+  
+    position: relative;
+    right: 90%;
+}
+footer .left a{
+    width: 130px;
+    height: 45px;
+    border: 1px #e0e0e2 solid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    
+    color: #e0e0e2;
+    margin-left: 20px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+footer .information{
+    margin-top: 10px;
+    margin-right: 20px;
+    font-size: 15px;
+}
+footer .svg{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 55px;
+    font-size: 11px;
+}
+footer .news{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    margin-top: 30px;
+    
+    & ul{
+        list-style: none;
+        
+    }
+    
+}
+.subscribe-form {
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+    
+}
+
+.subscribe-form input[type="email"] {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    flex: 1;
+    font-size: 14px;
+    outline: none;
+    margin-left: 10px;
+    background-color: #ddd;
+}
+
+.subscribe-form input[type="email"]::placeholder {
+    color: #aaa;
+    background-color: #ddd;
+}
+
+/* استایل دکمه */
+.subscribe-form button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    background-color: #ddd;
+    color: white;
+    font-size: 14px;
+    cursor: pointer;
+    
+}
+
+.subscribe-form button:hover {
+    background-color: #ccc;
+}
+footer .aplicatin{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+footer .main{
+    width: 95%;
+    height: 75px;
+    background-color: #3C4B6D;
+    border: 1px black solid;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+footer .aplicatin .main img{
+    width: 45px;
+    height: 40px;
+   
+}
+footer .aplicatin .main h3{
+    color: white;
+    padding: 10px;
+    font-size: 1.4rem;
+    display: flex;
+}
+footer .aplicatin .main .point{
+    width: 45px;
+    height: 45px;
+    background-color: white;
+    color: white;
+    border: 1px white solid;
+    text-align: center;
+    padding: 10px;
+    border-radius: 10%;
+    -webkit-border-radius: 10%;
+    -moz-border-radius: 10%;
+    -ms-border-radius: 10%;
+    -o-border-radius: 10%;
+}
+.trust-section {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    border-top: 1px solid #eee;
+    border-bottom: 1px solid #eee;
+}
+
+/* استایل برای بخش لوگوها */
+.trust-logos {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.logo-item img {
+    width: 108px;
+    height: 108px;
+    
+    border-radius: 10px;
+    border: 1px black solid;
+}
+
+/* استایل برای متن */
+.trust-text {
+    max-width: 600px;
+}
+
+.trust-text h2 {
+    font-size: 18px;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.trust-text p {
+    font-size: 14px;
+    color: #777;
+    margin-bottom: 15px;
+}
+
+.trust-text .more-info {
+    font-size: 14px;
+    color: #0082ff;
+    text-decoration: none;
+}
+
+.trust-text .more-info:hover {
+    text-decoration: underline;
+}
+.titr{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    font-size: 10px;
+}
+.brand{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    margin-top: 0px;
+    background-color: #F0F0F1;
+}
+.brand .items{
+    width: 100%;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-left: 1px #ddd solid;
+    margin-right: 0px auto;
+}
+.brand2{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+  
+    background-color: #F0F0F1;
+}
+.brand2 .items2{
+    width: 100%;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-left: 1px #ddd solid;
+    margin-right: 0px auto;
+}
