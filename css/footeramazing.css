@@ -2,7 +2,7 @@
     width: 100%;
     height: auto;
     position: absolute;
-    left: 0;
+    right: -650px;
     top: 3200px;
     border-top: 1px solid rgba(128, 128, 128, 0.322);
     display: flex;

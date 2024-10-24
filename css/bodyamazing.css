@@ -1483,7 +1483,7 @@ font-size: 12px;
   width: 100%;
   position: relative;
   bottom: 565px;
-  right:300px;
+  right:320px;
   font-size: 10px;
   display: flex;
   
@@ -1515,11 +1515,11 @@ font-size: 12px;
         
 }
 .product{
-  width: 1910px;
+  width: calc(100%-270px);
   height: 3250px;
   background-color: white;
   position: relative;
-  left: 1750px;
+  left: 1000px;
   top: 20px;
   display: flex;
   gap: 5px;
@@ -1554,7 +1554,7 @@ font-size: 12px;
       -ms-border-radius: 10px;
       -o-border-radius: 10px;
       background-color: crimson;
-      
+      color: white;
       font-size: 12px;
       line-height: 20px;
       display: flex;
@@ -1614,7 +1614,7 @@ font-size: 12px;
       -ms-border-radius: 10px;
       -o-border-radius: 10px;
       background-color: crimson;
-      
+      color: white;
       font-size: 12px;
       line-height: 20px;
       display: flex;
@@ -1674,7 +1674,7 @@ font-size: 12px;
       -ms-border-radius: 10px;
       -o-border-radius: 10px;
       background-color: crimson;
-      
+      color: white;
       font-size: 12px;
       line-height: 20px;
       display: flex;
@@ -1741,7 +1741,7 @@ font-size: 12px;
       -ms-border-radius: 10px;
       -o-border-radius: 10px;
       background-color: crimson;
-      
+      color: white;
       font-size: 12px;
       line-height: 20px;
       display: flex;
@@ -1801,7 +1801,7 @@ font-size: 12px;
       -ms-border-radius: 10px;
       -o-border-radius: 10px;
       background-color: crimson;
-      
+      color: white;
       font-size: 12px;
       line-height: 20px;
       display: flex;
@@ -1861,7 +1861,7 @@ font-size: 12px;
       -ms-border-radius: 10px;
       -o-border-radius: 10px;
       background-color: crimson;
-      
+      color: white;
       font-size: 12px;
       line-height: 20px;
       display: flex;
@@ -1921,7 +1921,7 @@ font-size: 12px;
       -ms-border-radius: 10px;
       -o-border-radius: 10px;
       background-color: crimson;
-      
+      color: white;
       font-size: 12px;
       line-height: 20px;
       display: flex;
@@ -1981,7 +1981,7 @@ font-size: 12px;
       -ms-border-radius: 10px;
       -o-border-radius: 10px;
       background-color: crimson;
-      
+      color: white;
       font-size: 12px;
       line-height: 20px;
       display: flex;

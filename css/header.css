@@ -212,7 +212,7 @@ header{
             z-index: 12;
             background-color: rgba(0, 0, 0, 0.342);
             top: -127px;
-            left: 0;
+            left: 90px;
             display: none;
             .city_container {
               position: relative;
