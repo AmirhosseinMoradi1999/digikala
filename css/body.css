@@ -427,7 +427,7 @@
     font-size: 18px;
     background: #ffffff;
     display: flex;
-    
+   
     justify-content: center;
     align-items: center;
     cursor: pointer;
@@ -450,6 +450,7 @@
         -o-border-radius: 50%;
         border: 2px solid #99489c;
         display: flex;
+        
         justify-content: center;
         align-items: center;
         margin-top: 16px;
@@ -1405,6 +1406,7 @@
     width: 90%;
     height: 250px;
     display: flex;
+    flex-flow: column-reverse;
     justify-content: center;
     align-items: center;
     margin: 0 auto;
@@ -1479,9 +1481,12 @@ text-align: left;
     -o-border-radius: 16px;
     border: 1px solid rgba(128, 128, 128, 0.295);
     display: flex;
+    justify-content: center;
+    align-items: center;
     flex-direction: row;
     margin-top: 15px;
     margin-right: 70px;
+    
     
     .divv {
       width: 323.25px;

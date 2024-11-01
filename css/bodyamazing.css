@@ -1431,30 +1431,28 @@ font-size: 12px;
 }
 .final{
   width: 100%;
-  
+ 
   position: absolute;
   top: 600px;
+  display: flex;
   .right{
     width: 270px;
     height: 580px;
     background-color: transparent;
     border: 1px solid gray;
     border-radius: 18px;
-    position: static;
-    top: 10px;
-    right: 10px;
+    position: relative;
+    top: 20px;
     .filter{
-     
+     display: flex;
       font-size: 20px;
       color: #3f4064;
       position: relative;
-      top: 10px;
-      right: 10px;
+      top: 20px;
     }
   .brand3{
-    position: relative;
-    top: 70px;
-    left: 60px;
+    display: flex;
+    
   }
   }
 }
@@ -1477,13 +1475,13 @@ font-size: 12px;
 }
 .final .left{
   width: fit-content;
+  display: flex;
 
 }
 .sort {
   width: 100%;
   position: relative;
-  bottom: 565px;
-  right:320px;
+
   font-size: 10px;
   display: flex;
   
@@ -1518,10 +1516,10 @@ font-size: 12px;
   width: calc(100%-270px);
   height: 3250px;
   background-color: white;
-  position: relative;
-  left: 1000px;
-  top: 20px;
-  display: flex;
+ display: flex;
+position: relative;
+left: 900px;
+top: 20px;
   gap: 5px;
 
 }
@@ -1529,9 +1527,9 @@ font-size: 12px;
   width: 285px;
   height: 450px;
   background-color: white;
-  position: relative;
+ 
   top: 5px;
-  right: 5px;
+  left: 500px;
   border: 1px solid rgba(128, 128, 128, 0.714);
   & span{
     position: relative;
