@@ -1441,7 +1441,7 @@ font-size: 12px;
     background-color: transparent;
     border: 1px solid gray;
     border-radius: 18px;
-    position: relative;
+    position: absolute;
     top: 20px;
     .filter{
      display: flex;
@@ -1481,7 +1481,7 @@ font-size: 12px;
 .sort {
   width: 100%;
   position: relative;
-
+right: 400px;
   font-size: 10px;
   display: flex;
   
