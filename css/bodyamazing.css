@@ -1436,7 +1436,7 @@ font-size: 12px;
   top: 600px;
   display: flex;
   .right{
-    width: 270px;
+    width: 300px;
     height: 580px;
     background-color: transparent;
     border: 1px solid gray;
@@ -1449,6 +1449,7 @@ font-size: 12px;
       color: #3f4064;
       position: relative;
       top: 20px;
+      right: 5px;
     }
   .brand3{
     display: flex;
@@ -1460,18 +1461,19 @@ font-size: 12px;
  
   
   position: relative;
-  right: 80px;
+  right: 140px;
   top: 18px;
 }
 .box-2{
   position: relative;
-  right: 45px;
+  right: 110px;
   top: 18px;
 }
 .box-3{
   position: relative;
-  right: 20px;
+  left: 180px;
   top: 18px;
+  
 }
 .final .left{
   width: fit-content;
@@ -1524,7 +1526,7 @@ top: 20px;
 
 }
 .product .one{
-  width: 285px;
+  width: 300px;
   height: 450px;
   background-color: white;
  
@@ -1585,7 +1587,7 @@ top: 20px;
   
 }
 .product .two{
-  width: 285px;
+  width: 300px;
   height: 450px;
   border: 1px solid rgba(128, 128, 128, 0.714);
   position: relative;
@@ -1645,7 +1647,7 @@ top: 20px;
   
 }
 .product .three{
-  width: 285px;
+  width: 300px;
   height: 450px;
   border: 1px solid rgba(128, 128, 128, 0.714);
   position: relative;
@@ -1705,13 +1707,13 @@ top: 20px;
   
 }
 .product .four{
-  width: 285px;
+  width: 300px;
   height: 511px;
  
   position: relative;
   top: 5px;
   right: 5px;
-  width: 285px;
+  width: 300px;
   height: 450px;
   border: 1px solid rgba(128, 128, 128, 0.714);
   
@@ -1772,7 +1774,7 @@ top: 20px;
   
 }
 .product .five{
-  width: 285px;
+  width: 300px;
   height: 450px;
   border: 1px solid rgba(128, 128, 128, 0.714);
   position: relative;
@@ -1832,7 +1834,7 @@ top: 20px;
   
 }
 .product .six{
-  width: 285px;
+  width: 300px;
   height: 450px;
   border: 1px solid rgba(128, 128, 128, 0.714);
   position: relative;
@@ -1892,7 +1894,7 @@ top: 20px;
   
 }
 .product .seven{
-  width: 285px;
+  width: 300px;
   height: 450px;
   border: 1px solid rgba(128, 128, 128, 0.714);
   position: relative;
@@ -1952,7 +1954,7 @@ top: 20px;
   
 }
 .product .eight{
-  width: 285px;
+  width: 300px;
   height: 450px;
   border: 1px solid rgba(128, 128, 128, 0.714);
   position: relative;
