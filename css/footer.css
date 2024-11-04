@@ -149,7 +149,7 @@ footer .aplicatin .main .point{
     border-bottom: 1px solid #eee;
 }
 
-/* استایل برای بخش لوگوها */
+
 .trust-logos {
     display: flex;
     align-items: center;
@@ -164,7 +164,7 @@ footer .aplicatin .main .point{
     border: 1px black solid;
 }
 
-/* استایل برای متن */
+
 .trust-text {
     max-width: 600px;
 }
